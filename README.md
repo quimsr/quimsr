@@ -3,9 +3,9 @@
 
 
 
-👋 Hi, I’m Quim!
+# 👋 Hi, I’m Quim
 
-*Passionate about computing and understanding how systems work under the hood.*
+Passionate about computing and understanding how systems work under the hood.
 
 I enjoy learning, exploring new tools, and continuously developing my skills. 🚀
 
